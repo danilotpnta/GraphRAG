@@ -191,3 +191,5 @@ tmp/
 lib/
 input/
 internal/
+
+.env

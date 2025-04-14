@@ -1,0 +1,17 @@
+langchain
+langchain-openai
+openai
+pandas
+pyarrow
+chromadb
+matplotlib
+scikit-learn
+networkx
+leidenalg
+igraph
+tqdm
+jinja2
+numpy
+python-dotenv
+sentence-transformers
+jupyter

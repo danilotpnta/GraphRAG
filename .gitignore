@@ -172,3 +172,22 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Packages
+*.egg-info/
+*.egg
+*.whl
+*.tar.gz
+
+# Mac
+.DS_Store
+
+# Temporary
+tmp/
+lib/
+input/
